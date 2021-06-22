@@ -20,9 +20,9 @@ Although this language is limited in it's functionality as it runs on the arm11 
 
 * Functions
 
-``` 
-shell_(func_name) (type) ((type var1, type var2, ..., type varx)). Defines a function which can takes x arguments. Arguments must be surrounded by parenthesis.
-OH BABY! (var_name/integer/string). Returns from the function, returning a value if one is given.
-ssh shell_(func_name)@(var_name) (arg1, arg2, ..., argx). Calls a function, storing the value returned in var_name.
-```
+
+> shell_(func_name) (type) ((type var1, type var2, ..., type varx)). Defines a function which can takes x arguments. Arguments must be surrounded by parenthesis.
+> OH BABY! (var_name/integer/string). Returns from the function, returning a value if one is given.
+> ssh shell_(func_name)@(var_name) (arg1, arg2, ..., argx). Calls a function, storing the value returned in var_name.
+
 ## Examples
