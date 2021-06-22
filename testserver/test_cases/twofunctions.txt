@@ -1,0 +1,16 @@
+shell_mult number (number x, number y).
+    ret is obviously x times y.
+
+    OH BABY! ret.
+
+shell_func number (number x, number y).
+    a is obviously x plus y.
+    b is obviously a times 2.
+
+    ssh shell_mult@c a b.
+
+    OH BABY! c.
+
+i is obviously 10.
+j is obviously 20.
+ssh shell_func@answer i j. 

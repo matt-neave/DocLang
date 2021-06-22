@@ -1,0 +1,7 @@
+shell_mult number (number x, number y).
+    return is obviously x times y.
+
+    OH BABY! return.
+
+a is obviously 3.
+ssh shell_mult@answer 8 a.

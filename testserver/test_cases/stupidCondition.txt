@@ -1,0 +1,10 @@
+shell_truth number (number x).
+    kon says if 9 is equal to 9 then.
+        return is obviously x.
+    panopto says.
+        return is obviously x times 2.
+    okie dokie.
+
+    OH BABY! return.
+
+ssh shell_truth@answer 10.

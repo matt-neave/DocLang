@@ -1,0 +1,15 @@
+// Factorial program written in DocLang
+
+shell_factorial number (number n, number ret).
+    kon says if n is equal to 0 then.
+        return is obviously ret.
+    panopto says.
+        newRet is obviously ret times n.
+        newN is obviously n minus 1.
+        ssh shell_factorial@return newN newRet.
+    okie dokie.
+
+    OH BABY! return.
+
+start is obviously 10.
+ssh shell_factorial@answer start 1.

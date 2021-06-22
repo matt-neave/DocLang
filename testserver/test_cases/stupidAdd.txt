@@ -1,0 +1,18 @@
+// stupidAdd program written in DocLang
+// 
+
+shell_stupidAdd number (number x, number y).
+    kon says if y is equal to 0 then.
+        a is obviously x.
+    panopto says.
+        i is obviously x plus 1.
+        j is obviously y minus 1.
+
+        ssh shell_stupidAdd@a i j.
+    okie dokie.
+
+    OH BABY! a.
+
+f is obviously 3.
+g is obviously 2.
+ssh shell_stupidAdd@answer f g.

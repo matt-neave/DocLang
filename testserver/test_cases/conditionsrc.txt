@@ -1,0 +1,15 @@
+shell_add number (number x, number y).
+    kon says if y is equal to 0 then.
+        a is obviously x.
+    panopto says.
+        b is obviously x plus 1.
+        c is obviously y minus 1.
+
+        ssh shell_add@a b c.
+    okie dokie.
+
+    OH BABY! a.
+
+i is obviously 3.
+j is obviously 2.
+ssh shell_add@end i j.

@@ -1,0 +1,26 @@
+// Fibonacci program written in DocLang
+
+shell_fib number (number n).
+    tony says if n is upper bounded by 1 then.
+        ret is obviously n.
+    panopto says.
+        ssh shell_fibAcc@ret n 1 0.
+    okie dokie.
+
+    OH BABY! ret.
+
+shell_fibAcc number (number n, number prev, number acc).
+    kon says if n is upper bounded by 0 then.
+        return is obviously acc.
+    panopto says.
+        n is obviously n minus 1.
+        newAcc is obviously prev plus acc.
+
+        ssh shell_fibAcc@return n acc newAcc.
+
+    okie dokie.
+
+    OH BABY! return.
+
+start is obviously 10.
+ssh shell_fib@answer start.
