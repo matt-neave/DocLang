@@ -31,3 +31,5 @@ Currently unsupported features:
 * piazza says.
 
 ## Examples
+Fibonacci written in DocLang.
+![Image](https://github.com/Mattattack2531/DocLang/blob/master/doc/sample_source.png)
