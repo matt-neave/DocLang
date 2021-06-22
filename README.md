@@ -1,5 +1,5 @@
 # DocLang
-An esoteric programming language intended to run on an arm11 processor.
+An esoteric programming language intended to run on an arm11 processor. This is part of Imperial College London's Year One Programming Course. The project is implemented entirely in C.
 
 ## Usage
 * script.sh: compiles and runs a specified DocLang source code file. (Requires access to the arm11 emulator not found in this repo).
