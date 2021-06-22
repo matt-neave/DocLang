@@ -3,7 +3,7 @@ An esoteric programming language intended to run on an arm11 processor. This is 
 
 ## Documentation
 
-Although this language is limited in it's functionality as it runs on the arm11 emulator we made, here are some of it's defining features:
+Although this language is limited in it's functionality as it runs on our own arm11 emulator, here are some of it's defining features:
 
 | Syntax                                                             | Description                                                                                                                    |
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
