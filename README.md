@@ -36,3 +36,7 @@ Fibonacci written in DocLang.
 
 * script.sh: compiles and runs a specified DocLang source code file. (Requires access to the arm11 emulator not found in this repo).
 * start.sh: runs the testserver for various DocLang source files.
+
+## Credit
+
+This project was developed as a group consisting of myself, Ibrahim Ibrahim, Jovan Ang and Jai Patel.
